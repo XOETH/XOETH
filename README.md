@@ -1,6 +1,7 @@
 ### I'm XO 
--not a dev 
--just learning 
+
+- not a dev 
+- just learning 
 
 
 
